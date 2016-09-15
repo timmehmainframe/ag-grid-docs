@@ -132,7 +132,7 @@ params = {
                 </ul>
             </p>
             <p>
-                For Number filter, the mapping is as follows:
+                For Text filter, the mapping is as follows:
             <ul>
                 <li>1 => 'contains'</li>
                 <li>2 => 'equals'</li>
